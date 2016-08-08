@@ -1,2 +1,3 @@
 # helllo-world
-The first program
+The first program.
+Coding is fun
